@@ -4,7 +4,7 @@ Repositório dedicado à entrega dos documentos necessários para a conclusão d
 
 ## ❓ O que foi solicitado e qual o andamento do projeto? ❓
  - ✔ Plano de fluxo de trabalho levando em consideração o ciclo de vida do bug;
- - ❌ Documento em formato PDF contendo duas user stories pensadas pelo aluno;
+ - ✔ Documento em formato PDF contendo duas user stories pensadas pelo aluno;
  - ✔ Mind Map de pelo menos uma user story;
  - ❌ Dois casos de teste utilizando a técnica step-by-step;
  - ✔ Dois casos de teste utilizando BDD.
