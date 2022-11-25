@@ -9,4 +9,4 @@ Repositório dedicado à entrega dos documentos necessários para a conclusão d
  - ✔ Dois casos de teste utilizando a técnica step-by-step;
  - ✔ Dois casos de teste utilizando BDD.
  
- Este projeto deverá ser concluído até a data limite de 08/01/2023.
+ Projeto concluído em 25/11/2022.
